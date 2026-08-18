@@ -8,6 +8,10 @@ This custom node keeps the beginning and end of the MiniMax H3 transformer exact
 
 The cache is an approximation. Calls that do not pass its sampler, identity, topology, schedule, reuse-limit, and feature-change checks run the full transformer path.
 
+<a href="images/node.png">
+  <img src="images/node.png" alt="Loader1" width="960" height="720">
+</a>
+
 ## Installation
 
 ```bash
