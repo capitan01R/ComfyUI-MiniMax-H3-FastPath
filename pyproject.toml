@@ -1,6 +1,6 @@
 [project]
 name = "ComfyUI-MiniMax-H3-FastPath"
-description = "Euler-only middle-block caching for native MiniMax H3 models in ComfyUI.
+description = "Euler-only middle-block caching for native MiniMax H3 models in ComfyUI."
 version = "1.0.0"
 license = {file = "LICENSE"} 
 # classifiers = [
@@ -30,6 +30,5 @@ Documentation = "https://github.com/capitan01R/ComfyUI-MiniMax-H3-FastPath/wiki"
 [tool.comfy]
 PublisherId = "capitan01r"
 DisplayName = "ComfyUI-MiniMax-H3-FastPath"
-Icon = ""
 includes = [] 
 # "requires-comfyui" = ">=1.0.0"  # ComfyUI version compatibility
