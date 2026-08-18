@@ -34,7 +34,7 @@ No extra Python packages are required beyond a working ComfyUI installation with
 Place **MiniMax H3 FastPath Euler Middle Cache** between the native MiniMax H3 diffusion model loader and a stock Euler sampler:
 
 ```text
-Load Diffusion Model -> MiniMax H3 FastPath Euler Middle Cache -> Euler Sampler
+Load Diffusion Model -> MiniMax H3 FastPath Euler Middle Cache -> KSampler
 ```
 
 Use your normal MiniMax H3 conditioning, latent, scheduler, guider, and VAE decode path.
